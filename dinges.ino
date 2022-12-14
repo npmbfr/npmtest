@@ -2,3 +2,4 @@
  * en bestaat voornamelijk uit commentaar
  * */
 const boolean USE_FLAG = 1;
+const boolean USE_MAST = 2;
