@@ -6,4 +6,5 @@ const boolean USE_MAST   = 2;
 const boolean USE_WIMPLE = 0;
 const boolean USE_BANNER = 3;
 const boolean USE_LAMPJE = 4;
-const boolean USE_LICHTJE= 5
+const boolean USE_LICHTJE= 5;
+const boolean USE_TOONTJE= 6;
