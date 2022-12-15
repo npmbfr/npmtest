@@ -9,6 +9,7 @@ Ja hier zijn we weer, laten we nog s wat doen.
 een file dinges.ino toegevoegd,en deze gewijzigd
 
 ----
-gewijzigd in remote branch version_test1
+### gewijzigd in remote branch version_test1
 ---
 aangevuld in local branch dev
+nog wat gewijzigd in github version_test1, kijken of wedit kunnen synchroniseren !
