@@ -5,3 +5,4 @@ const boolean USE_FLAG   = 1;
 const boolean USE_MAST   = 2;
 const boolean USE_WIMPLE = 0;
 const boolean USE_BANNER = 3;
+const boolean USE_LAMPJE = 4;
